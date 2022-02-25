@@ -4,8 +4,6 @@ Android | Kotlin | Simple Example using DataBinding
 
 # File: build.gradle:app
 
-Implement in your project code "dataBinding = true"
-
 Starting from Android Gradle Plugin 4.0.0-alpha05 there is a new block called buildFeatures to enable build features.
 
 So, instead of
